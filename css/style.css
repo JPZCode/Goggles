@@ -2387,3 +2387,22 @@ ul.links li a:hover {
 }
 
 /*-- //responsive media queries --*/
+
+div#mc_embed_signup {
+    background: transparent;
+    clear: left;
+    color: gray;
+    /* font: 14px Helvetica, Arial, sans-serif; */
+    /*width: 100%;*/
+}
+
+div#mc_embed_signup input.email {
+    background-color: transparent;
+    width: 80%;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    font-family: none;
+    font-size: none;
+    border-radius: none;
+    background-color: transparent;
+}
