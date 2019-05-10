@@ -1643,7 +1643,7 @@ ul.links li a:hover {
     display: inline-block;
 }
 .footer-social li a {
-    color: #999;
+    color: gainsboro;
     font-size: 15px;
 }
 .footer-social li a:hover {
