@@ -2,4 +2,4 @@
 Site for TICs
 
 
-www.goggles.website
+https://goggles.website
